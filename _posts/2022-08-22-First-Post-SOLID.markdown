@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software Princples
+title: Software Principles
 date:   2022-08-22 11:22:16 -0500
 categories: SOLID best-practices 
 ---
