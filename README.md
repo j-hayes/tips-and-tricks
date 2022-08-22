@@ -5,6 +5,8 @@ The primary focus will be to developers of the GAMESS, Libcchem, and JuliaChem c
 
 Guest content is welcome. Feel free to make a pull request and I will add your content! 
 
+To view this site go to: https://j-hayes.github.io/tips-and-tricks/
+
 ## Instructions for running this site locally 
 install jekyll - https://jekyllrb.com/docs/
 
