@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Software Principles
 date:   2022-08-22 11:22:16 -0500
 categories: best-practices

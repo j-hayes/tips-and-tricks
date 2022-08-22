@@ -22,14 +22,15 @@ title: Tips and Tricks
 email: jhayes1@iastate dot edu
 description: >- # this means to ignore newlines until "baseurl:"
   A blog for sharing tips and tricks for being a great software craftsman. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://j-hayes.github.io/tips-and-tricks/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  j-hayes
 
 # Build settings
-theme:  jekyll-theme-hacker
+theme:  minima
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

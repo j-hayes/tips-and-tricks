@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Single Responsibility Principle
 date:   2022-08-22 11:47:16 -0500
 categories: SOLID
